@@ -1,7 +1,7 @@
 
 # Dota2 Team Composition Generation w/ ML
 
-CS5644 - Machine Learning with Big Data Final Project
+CS5644 - Machine Learning with Big Data Final Project (Fall 2021)
 
 Through a comparative analysis of 4 different ML models (Decision Trees, Random Forest, Naive Bayes and Logistic Regression) and an ANN on two different datasets, we attempt to create an effective model to predict Dota2 match outcomes based on the teams’ selection heroes, team and match characteristics. Specifically, given two sets of five heroes, team statistics, and the characteristics of the match, each model is trained to predict which team is more likely to win against the other team. 
 
